@@ -98,11 +98,6 @@ Pull requests are welcome! If you'd like to make changes or improvements, please
 
 ---
 
-## 📸 Screenshots (Optional - Add if available)
-*(You can add UI screenshots here later to make your readme look even better!)*  
-
----
-
 ## 🙋‍♂️ Author
 👩‍💻 Developed by **Taneesh Suthar** – Final year B.Tech CSE student, passionate about **Full-Stack Web Development**.  
 
