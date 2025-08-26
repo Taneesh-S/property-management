@@ -27,11 +27,9 @@ This project was created as part of my learning journey to build complete applic
 ## 📂 Project Structure  
 
 📦 Property-Management-System
-├── 📁 client # React frontend code
-|
-├── 📁 server # Express.js backend APIs
-|
-└── 📄 schema.sql # Database schema for MySQL
+├── 📁 client # React frontend code.
+├── 📁 server # Express.js backend APIs.
+└── 📄 schema.sql # Database schema for MySQL.
 
 ---
 
