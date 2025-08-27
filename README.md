@@ -99,7 +99,7 @@ Pull requests are welcome! If you'd like to make changes or improvements, please
 ---
 
 ## 🙋‍♂️ Author
-👩‍💻 Developed by **Taneesh Suthar** – Final year B.Tech CSE student, passionate about **Full-Stack Web Development**.  
+Developed by **Taneesh Suthar** – Final year B.Tech CSE student, passionate about **Full-Stack Web Development**.  
 
 ✨ Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/taneesh-suthar)  
